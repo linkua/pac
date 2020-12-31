@@ -1,8 +1,0 @@
-2020/12/06-18:34:22.192 3a3c Reusing MANIFEST F:\BAIDUN~1\翻墙软件\高内核\64位\87\CHROME~1.6\Data\Default\IndexedDB\chrome-extension_ikhdkkncnoglghljlkmcimlnlhkeamad_0.indexeddb.leveldb/MANIFEST-000001
-2020/12/06-18:34:22.192 3a3c Recovering log #10
-2020/12/06-18:34:22.192 3a3c Reusing old log F:\BAIDUN~1\翻墙软件\高内核\64位\87\CHROME~1.6\Data\Default\IndexedDB\chrome-extension_ikhdkkncnoglghljlkmcimlnlhkeamad_0.indexeddb.leveldb/000010.log 
-2020/12/06-18:34:37.335 1690 Level-0 table #14: started
-2020/12/06-18:34:37.335 1690 Level-0 table #14: 0 bytes OK
-2020/12/06-18:34:37.490 1690 Delete type=0 #10
-2020/12/06-18:34:37.490 1690 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/12/06-18:34:37.491 1690 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

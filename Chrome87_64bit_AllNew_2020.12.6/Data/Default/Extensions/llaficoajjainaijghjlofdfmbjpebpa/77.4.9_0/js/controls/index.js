@@ -1,1 +1,0 @@
-fvdSpeedDial.Controls = {};
