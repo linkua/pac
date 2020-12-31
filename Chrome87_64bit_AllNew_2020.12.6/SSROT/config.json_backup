@@ -1,0 +1,34 @@
+
+{
+    "password": "Fj9aSSTruQyt597M",
+    "method": "rc4",
+    "protocol": "auth_sha1_v4",
+    "protocol_param": "",
+    "obfs": "tls1.2_ticket_fastauth",
+    "obfs_param": "",
+
+    "udp": true,
+    "idle_timeout": 300,
+    "connect_timeout": 6,
+    "udp_timeout": 6,
+
+    "server_settings": {
+        "listen_address": "0.0.0.0",
+        "listen_port": 18955
+    },
+
+    "client_settings": {
+        "server": "45.66.159.254",
+        "server_port": 443,
+        "listen_address": "0.0.0.0",
+        "listen_port": 1080
+    },
+
+    "over_tls_settings": {
+        "enable": true,
+        "server_domain": "tr102.free5555.xyz",
+        "path": "/rc82kXFeALd00bw0Bsij/",
+        "root_cert_file": ""
+    }
+}
+

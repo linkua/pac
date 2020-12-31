@@ -1,0 +1,1033 @@
+[2020-11-20 18:58:11] ShadowsocksR started on port 1080
+[2020-11-20 18:58:14] [Info] Connect alive.github.com:443
+[2020-11-20 18:58:25] ShadowsocksR started on port 1080
+[2020-11-20 18:58:25] [Info] Connect alive.github.com:443
+[2020-11-20 18:58:26] [Info] Connect alive.github.com:443
+[2020-11-20 18:58:26] [Info] Connect mtalk.google.com:443
+[2020-11-20 18:58:31] [Info] Connect alive.github.com:443
+[2020-11-20 18:58:31] [Info] Connect alive.github.com:443
+[2020-11-20 18:58:31] [Info] Connect mtalk.google.com:443
+[2020-11-20 18:58:32] [Info] Connect www.google.com:443
+[2020-11-20 18:58:32] [Info] Connect www.google.com:443
+[2020-11-20 18:58:33] [Info] Connect www.google.com:443
+[2020-11-20 18:58:33] [Info] Connect www.google.com:443
+[2020-11-20 18:58:34] [Info] Connect www.youtube.com:443
+[2020-11-20 18:58:34] [Info] Connect fonts.googleapis.com:443
+[2020-11-20 18:58:35] [Info] Connect fonts.gstatic.com:443
+[2020-11-20 18:58:36] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-11-20 18:58:36] [Info] Connect raw.githubusercontent.com:443
+[2020-11-20 18:58:36] [Info] Connect alive.github.com:443
+[2020-11-20 18:58:37] [Info] Connect fonts.gstatic.com:443
+[2020-11-20 18:58:37] [Info] Connect www.google.com:443
+[2020-11-20 18:58:37] [Info] Connect www.youtube.com:443
+[2020-11-20 18:58:38] [Info] Disconnect www.google.com:443
+[2020-11-20 18:58:38] [Info] Connect www.google.com:443
+[2020-11-20 18:58:39] [Info] Connect www.google.com:443
+[2020-11-20 18:58:40] [Info] Connect fonts.googleapis.com:443
+[2020-11-20 18:58:40] [Info] Connect i.ytimg.com:443
+[2020-11-20 18:58:41] [Info] Connect raw.githubusercontent.com:443
+[2020-11-20 18:58:41] [Info] Disconnect alive.github.com:443
+[2020-11-20 18:58:42] [Info] Disconnect www.google.com:443
+[2020-11-20 18:58:42] [Error] connect to update server error
+[2020-11-20 18:58:42] [Info] Connect www.youtube.com:443
+[2020-11-20 18:58:43] [Info] Connect yt3.ggpht.com:443
+[2020-11-20 18:58:43] [Info] Connect i.ytimg.com:443
+[2020-11-20 18:58:43] [Info] Connect i.ytimg.com:443
+[2020-11-20 18:58:43] [Info] Connect i.ytimg.com:443
+[2020-11-20 18:58:43] [Info] Connect yt3.ggpht.com:443
+[2020-11-20 18:58:43] [Info] Connect i.ytimg.com:443
+[2020-11-20 18:58:43] [Info] Connect i.ytimg.com:443
+[2020-11-20 18:58:44] [Info] Connect yt3.ggpht.com:443
+[2020-11-20 18:58:44] [Info] Disconnect i.ytimg.com:443
+[2020-11-20 18:58:44] [Info] Disconnect i.ytimg.com:443
+[2020-11-20 18:58:44] [Info] Connect alive.github.com:443
+[2020-11-20 18:58:44] [Info] Disconnect i.ytimg.com:443
+[2020-11-20 18:58:45] [Info] Connect i.ytimg.com:443
+[2020-11-20 18:58:46] [Info] Connect savefr.com:443
+[2020-11-20 18:58:48] [Info] Connect www.youtube.com:443
+[2020-11-20 18:58:48] [Info] Connect yt3.ggpht.com:443
+[2020-11-20 18:58:48] [Info] Connect i.ytimg.com:443
+[2020-11-20 18:58:48] [Info] Connect yt3.ggpht.com:443
+[2020-11-20 18:58:49] [Info] Connect savefr.com:443
+[2020-11-20 18:58:49] [Info] Connect yt3.ggpht.com:443
+[2020-11-20 18:58:49] [Info] Connect alive.github.com:443
+[2020-11-20 18:58:50] [Info] Disconnect i.ytimg.com:443
+[2020-11-20 18:58:50] [Info] Disconnect yt3.ggpht.com:443
+[2020-11-20 18:58:50] [Info] Connect i.ytimg.com:443
+[2020-11-20 18:58:51] [Info] Disconnect i.ytimg.com:443
+[2020-11-20 18:58:51] [Info] Connect savefr.com:443
+[2020-11-20 18:58:52] [Info] Connect r3---sn-n4v7sne7.googlevideo.com:443
+[2020-11-20 18:58:52] [Info] Connect r3---sn-n4v7sne7.googlevideo.com:443
+[2020-11-20 18:58:53] [Info] Connect r3---sn-n4v7sne7.googlevideo.com:443
+[2020-11-20 18:58:53] [Info] Connect r3---sn-n4v7sne7.googlevideo.com:443
+[2020-11-20 18:58:53] [Info] Disconnect www.youtube.com:443
+[2020-11-20 18:58:54] [Info] Connect r3---sn-o097znlk.googlevideo.com:443
+[2020-11-20 18:58:54] [Info] Connect yt3.ggpht.com:443
+[2020-11-20 18:58:55] [Info] Connect r3---sn-o097znlk.googlevideo.com:443
+[2020-11-20 18:58:56] [Info] Connect savefr.com:443
+[2020-11-20 18:58:57] [Info] Connect r3---sn-n4v7sne7.googlevideo.com:443
+[2020-11-20 18:58:58] [Info] Connect r3---sn-a5mlrnes.googlevideo.com:443
+[2020-11-20 18:58:58] [Info] Connect r3---sn-n4v7sne7.googlevideo.com:443
+[2020-11-20 18:58:58] [Info] Connect r3---sn-n4v7sne7.googlevideo.com:443
+[2020-11-20 18:58:59] [Info] Connect r3---sn-o097znlk.googlevideo.com:443
+[2020-11-20 18:58:59] [Info] Disconnect yt3.ggpht.com:443
+[2020-11-20 18:58:59] [Info] Connect r3---sn-a5meknsy.googlevideo.com:443
+[2020-11-20 18:59:00] [Info] Connect r3---sn-o097znlk.googlevideo.com:443
+[2020-11-20 18:59:02] [Info] Connect r3---sn-o097znlk.googlevideo.com:443
+[2020-11-20 18:59:02] [Info] Connect r3---sn-n4v7sne7.googlevideo.com:443
+[2020-11-20 18:59:03] [Info] Connect r3---sn-n4v7sne7.googlevideo.com:443
+[2020-11-20 18:59:03] [Info] Connect r3---sn-n4v7sne7.googlevideo.com:443
+[2020-11-20 18:59:03] [Info] Connect r3---sn-n4v7sne7.googlevideo.com:443
+[2020-11-20 18:59:04] [Info] Disconnect savefr.com:443
+[2020-11-20 18:59:04] [Info] Disconnect r3---sn-o097znlk.googlevideo.com:443
+[2020-11-20 18:59:04] [Info] Connect r3---sn-a5meknsy.googlevideo.com:443
+[2020-11-20 18:59:05] [Info] Disconnect mtalk.google.com:443
+[2020-11-20 18:59:05] [Info] Connect r3---sn-a5meknsy.googlevideo.com:443
+[2020-11-20 18:59:05] [Info] Connect r3---sn-a5meknsy.googlevideo.com:443
+[2020-11-20 18:59:05] [Info] Connect r3---sn-o097znlk.googlevideo.com:443
+[2020-11-20 18:59:06] [Info] Connect r3---sn-o097znlk.googlevideo.com:443
+[2020-11-20 18:59:08] [Info] Disconnect r3---sn-n4v7sne7.googlevideo.com:443
+[2020-11-20 18:59:08] [Info] Connect r3---sn-a5meknsy.googlevideo.com:443
+[2020-11-20 18:59:08] [Info] Disconnect r3---sn-n4v7sne7.googlevideo.com:443
+[2020-11-20 18:59:08] [Info] Disconnect r3---sn-n4v7sne7.googlevideo.com:443
+[2020-11-20 18:59:10] [Info] Connect r3---sn-a5meknsy.googlevideo.com:443
+[2020-11-20 18:59:11] [Info] Connect r3---sn-o097znlk.googlevideo.com:443
+[2020-11-20 18:59:13] [Info] Disconnect fonts.googleapis.com:443
+[2020-11-20 18:59:13] [Info] Connect r3---sn-a5meknsy.googlevideo.com:443
+[2020-11-20 18:59:14] [Info] Disconnect savefr.com:443
+[2020-11-20 18:59:15] [Info] Disconnect r3---sn-a5meknsy.googlevideo.com:443
+[2020-11-20 18:59:17] [Info] Disconnect r3---sn-o097znlk.googlevideo.com:443
+[2020-11-20 18:59:17] [Info] Connect r3---sn-o097znlk.googlevideo.com:443
+[2020-11-20 18:59:17] [Info] Disconnect www.google.com:443
+[2020-11-20 18:59:20] [Info] Connect alive.github.com:443
+[2020-11-20 18:59:22] [Info] Connect r3---sn-o097znlk.googlevideo.com:443
+[2020-11-20 18:59:24] [Info] Connect github.com:443
+[2020-11-20 18:59:25] [Info] Connect alive.github.com:443
+[2020-11-20 19:02:56] ShadowsocksR started on port 1080
+[2020-11-20 19:02:57] [Info] Connect alive.github.com:443
+[2020-11-20 19:03:00] [Info] Connect www.youtube.com:443
+[2020-11-20 19:03:01] [Info] Connect alive.github.com:443
+[2020-11-20 19:03:02] [Info] Connect alive.github.com:443
+[2020-11-20 19:03:03] [Info] Connect www.youtube.com:443
+[2020-11-20 19:03:03] [Info] Connect alive.github.com:443
+[2020-11-20 19:03:04] [Info] Connect alive.github.com:443
+[2020-11-20 19:03:05] [Info] Connect www.google.com:443
+[2020-11-20 19:03:06] [Info] Connect www.google.com:443
+[2020-11-20 19:03:06] [Info] Connect www.google.com:443
+[2020-11-20 19:03:06] [Info] Disconnect www.google.com:443
+[2020-11-20 19:03:06] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-11-20 19:03:06] [Info] Connect raw.githubusercontent.com:443
+[2020-11-20 19:03:06] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-20 19:03:06] [Info] Direct connect fonts.gstatic.com:443
+[2020-11-20 19:03:07] [Info] Connect i.ytimg.com:443
+[2020-11-20 19:03:07] [Info] Direct connect fonts.gstatic.com:443
+[2020-11-20 19:03:07] [Error] connect to update server error
+[2020-11-20 19:03:09] [Info] Connect yt3.ggpht.com:443
+[2020-11-20 19:03:11] [Info] Connect clients1.google.com:443
+[2020-11-20 19:03:11] [Info] Connect savefr.com:443
+[2020-11-20 19:03:15] [Info] Connect r1---sn-a5msen7z.googlevideo.com:443
+[2020-11-20 19:03:15] [Info] Connect r1---sn-a5msen7z.googlevideo.com:443
+[2020-11-20 19:03:15] [Info] Connect r1---sn-a5msen7z.googlevideo.com:443
+[2020-11-20 19:03:15] [Info] Connect r1---sn-a5msen7z.googlevideo.com:443
+[2020-11-20 19:03:20] [Info] Disconnect alive.github.com:443
+[2020-11-20 19:03:24] [Info] Disconnect r1---sn-a5msen7z.googlevideo.com:443
+[2020-11-22 08:19:34] ShadowsocksR started on port 1080
+[2020-11-22 08:19:35] [Info] Connect www.google.com:443
+[2020-11-22 08:19:35] [Info] Connect www.google.com:443
+[2020-11-22 08:19:35] [Info] Connect www.google.com:443
+[2020-11-22 08:19:36] [Info] Connect www.youtube.com:443
+[2020-11-22 08:19:36] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-22 08:19:36] [Info] Connect alive.github.com:443
+[2020-11-22 08:19:36] [Info] Disconnect www.google.com:443
+[2020-11-22 08:19:36] [Info] Disconnect www.google.com:443
+[2020-11-22 08:19:37] [Info] Connect i.ytimg.com:443
+[2020-11-22 08:19:37] [Info] Direct connect fonts.gstatic.com:443
+[2020-11-22 08:19:39] [Info] Connect yt3.ggpht.com:443
+[2020-11-22 08:19:39] [Info] Connect yt3.ggpht.com:443
+[2020-11-22 08:19:40] [Info] Disconnect yt3.ggpht.com:443
+[2020-11-22 08:19:43] [Info] Connect r1---sn-a5m7lnlz.googlevideo.com:443
+[2020-11-22 08:19:43] [Info] Connect r1---sn-a5m7lnlz.googlevideo.com:443
+[2020-11-22 08:19:43] [Info] Connect clients1.google.com:443
+[2020-11-22 08:19:43] [Info] Connect r2---sn-a5mlrnes.googlevideo.com:443
+[2020-11-22 08:19:43] [Info] Connect r2---sn-a5mlrnes.googlevideo.com:443
+[2020-11-22 08:19:44] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-11-22 08:19:44] [Info] Connect raw.githubusercontent.com:443
+[2020-11-22 08:19:44] [Error] connect to update server error
+[2020-11-22 08:19:45] [Info] Connect i9.ytimg.com:443
+[2020-11-22 08:19:47] [Info] Connect mtalk.google.com:443
+[2020-11-22 08:20:05] ShadowsocksR started on port 1080
+[2020-11-22 08:20:05] [Info] Connect www.youtube.com:443
+[2020-11-22 08:20:05] [Info] Direct connect r2---sn-a5meknsd.googlevideo.com:443
+[2020-11-22 08:20:05] [Info] Connect r2---sn-a5mlrnes.googlevideo.com:443
+[2020-11-22 08:20:05] [Info] Connect www.youtube.com:443
+[2020-11-22 08:20:05] [Info] Connect alive.github.com:443
+[2020-11-22 08:20:05] [Info] Connect r2---sn-a5mlrnes.googlevideo.com:443
+[2020-11-22 08:20:07] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-22 08:20:07] [Info] Connect i.ytimg.com:443
+[2020-11-22 08:20:07] [Info] Direct connect fonts.gstatic.com:443
+[2020-11-22 08:20:07] [Info] Direct connect r2---sn-a5meknsd.googlevideo.com:443
+[2020-11-22 08:20:07] [Info] Direct connect r2---sn-a5meknsd.googlevideo.com:443
+[2020-11-22 08:20:08] [Info] Direct connect r2---sn-a5meknsd.googlevideo.com:443
+[2020-11-22 08:20:08] [Info] Direct connect r2---sn-a5meknsd.googlevideo.com:443
+[2020-11-22 08:20:09] [Info] Connect p2-mbvrzwpc4fvi2-kopxcqlffgobwvvy-if-v6exp3-v4.metric.gstatic.com:443
+[2020-11-22 08:20:15] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-11-22 08:20:15] [Info] Connect raw.githubusercontent.com:443
+[2020-11-22 08:20:16] [Error] connect to update server error
+[2020-11-22 08:20:20] [Info] Connect p2-mbvrzwpc4fvi2-kopxcqlffgobwvvy-751251-i2-v6exp3.ds.metric.gstatic.com:443
+[2020-11-22 08:20:20] [Info] Connect p2-mbvrzwpc4fvi2-kopxcqlffgobwvvy-751251-i1-v6exp3.v4.metric.gstatic.com:443
+[2020-11-22 08:20:26] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 119.28.87.227:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-22 08:20:28] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 119.28.87.227:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-22 08:20:28] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 119.28.87.227:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-22 08:20:29] [Info] Connect r2---sn-a5mlrnes.googlevideo.com:443
+[2020-11-22 08:20:29] [Info] Direct connect r2---sn-a5meknsd.googlevideo.com:443
+[2020-11-22 08:20:29] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 119.28.87.227:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-22 08:20:29] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 119.28.87.227:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-22 08:20:30] [Info] Direct connect r2---sn-a5meknsd.googlevideo.com:443
+[2020-11-22 08:20:30] [Info] Direct connect r2---sn-a5meknsd.googlevideo.com:443
+[2020-11-22 08:20:30] [Info] Disconnect r2---sn-a5mlrnes.googlevideo.com:443
+[2020-11-22 08:20:30] [Info] Disconnect r2---sn-a5mlrnes.googlevideo.com:443
+[2020-11-22 08:20:30] [Info] Direct connect r2---sn-a5meknsd.googlevideo.com:443
+[2020-11-22 08:20:30] [Info] Direct connect r2---sn-a5meknsd.googlevideo.com:443
+[2020-11-22 08:20:31] [Info] Direct connect googleads.g.doubleclick.net:443
+[2020-11-22 08:20:31] [Info] Connect i9.ytimg.com:443
+[2020-11-22 08:20:34] [Info] Connect r2---sn-n4v7snee.googlevideo.com:443
+[2020-11-22 08:20:50] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 119.28.87.227:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-22 08:20:50] [Info] Connect r2---sn-n4v7snee.googlevideo.com:443
+[2020-11-22 08:20:50] [Info] Connect mtalk.google.com:5228
+[2020-11-22 08:20:50] [Info] Connect p2-mbvrzwpc4fvi2-kopxcqlffgobwvvy-751251-s1-v6exp3-v4.metric.gstatic.com:443
+[2020-11-22 08:20:51] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 119.28.87.227:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-22 08:20:51] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 119.28.87.227:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-22 08:20:51] [Info] Direct connect r2---sn-a5meknsd.googlevideo.com:443
+[2020-11-22 08:20:52] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 119.28.87.227:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-22 08:20:52] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 119.28.87.227:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-22 08:21:00] [Info] Connect portal.budgetvm.com:443
+[2020-11-22 08:21:00] [Info] Connect portal.budgetvm.com:443
+[2020-11-22 08:21:00] [Info] Connect portal.budgetvm.com:443
+[2020-11-22 08:21:00] [Info] Connect portal.budgetvm.com:443
+[2020-11-22 08:21:01] [Info] Disconnect portal.budgetvm.com:443
+[2020-11-22 08:21:01] [Info] Disconnect portal.budgetvm.com:443
+[2020-11-22 08:21:01] [Info] Disconnect portal.budgetvm.com:443
+[2020-11-22 08:21:01] [Info] Connect portal.budgetvm.com:443
+[2020-11-22 08:21:01] [Info] Disconnect portal.budgetvm.com:443
+[2020-11-22 08:21:02] [Info] Connect portal.budgetvm.com:443
+[2020-11-22 08:21:02] [Info] Disconnect portal.budgetvm.com:443
+[2020-11-22 08:21:03] [Info] Disconnect portal.budgetvm.com:443
+[2020-11-22 08:21:11] [Info] Disconnect www.youtube.com:443
+[2020-11-22 08:21:12] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 119.28.87.227:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-22 08:21:25] [Info] Direct connect r2---sn-a5meknsd.googlevideo.com:443
+[2020-11-22 08:21:29] [Info] Disconnect r2---sn-a5mlrnes.googlevideo.com:443
+[2020-11-24 17:43:08] ShadowsocksR started on port 1080
+[2020-11-24 17:43:08] [Info] Connect alive.github.com:443
+[2020-11-24 17:43:15] [Info] Direct connect safebrowsing.googleapis.com:443
+[2020-11-24 17:43:18] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-11-24 17:43:18] [Info] Connect raw.githubusercontent.com:443
+[2020-11-24 17:43:19] [Info] Disconnect raw.githubusercontent.com:443
+[2020-11-24 17:43:19] [Info] Disconnect alive.github.com:443
+[2020-11-24 17:43:19] [Info] Connect alive.github.com:443
+[2020-11-24 17:43:19] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-11-24 17:43:19] [Info] Connect raw.githubusercontent.com:443
+[2020-11-24 17:43:19] [Info] Connect www.google.com:443
+[2020-11-24 17:43:19] [Info] Connect api.github.com:443
+[2020-11-24 17:43:20] [Info] Connect www.google.com:443
+[2020-11-24 17:43:20] [Info] Direct connect fonts.gstatic.com:443
+[2020-11-24 17:43:20] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-24 17:43:20] [Info] Connect www.youtube.com:443
+[2020-11-24 17:43:20] [Info] Disconnect www.google.com:443
+[2020-11-24 17:43:20] [Error] connect to update server error
+[2020-11-24 17:43:21] [Info] Direct connect fonts.gstatic.com:443
+[2020-11-24 17:43:21] [Info] Connect i.ytimg.com:443
+[2020-11-24 17:43:23] [Info] Direct connect secure.insightexpressai.com:443
+[2020-11-24 17:43:23] [Info] Connect yt3.ggpht.com:443
+[2020-11-24 17:43:23] [Info] Connect yt3.ggpht.com:443
+[2020-11-24 17:43:24] [Info] Disconnect yt3.ggpht.com:443
+[2020-11-24 17:43:25] [Info] Connect clients1.google.com:443
+[2020-11-24 17:43:26] [Info] Connect r2---sn-5hnednlr.googlevideo.com:443
+[2020-11-24 17:43:26] [Info] Connect r2---sn-5hnednlr.googlevideo.com:443
+[2020-11-24 17:43:26] [Info] Connect r2---sn-5hnednlr.googlevideo.com:443
+[2020-11-24 17:43:26] [Info] Connect r2---sn-5hnednlr.googlevideo.com:443
+[2020-11-24 17:43:27] [Info] Connect i9.ytimg.com:443
+[2020-11-24 17:43:30] [Info] Connect mtalk.google.com:443
+[2020-11-24 17:43:40] [Info] Disconnect raw.githubusercontent.com:443
+[2020-11-24 17:44:04] [Info] Disconnect www.google.com:443
+[2020-11-24 17:44:04] [Info] Disconnect i.ytimg.com:443
+[2020-11-24 17:44:04] [Info] Disconnect alive.github.com:443
+[2020-11-24 17:44:04] [Info] Disconnect api.github.com:443
+[2020-11-24 17:44:04] [Info] Disconnect r2---sn-5hnednlr.googlevideo.com:443
+[2020-11-24 17:44:04] [Info] Disconnect r2---sn-5hnednlr.googlevideo.com:443
+[2020-11-24 17:44:04] [Info] Disconnect yt3.ggpht.com:443
+[2020-11-24 17:44:04] [Info] Disconnect clients1.google.com:443
+[2020-11-24 17:44:04] [Info] Disconnect www.youtube.com:443
+[2020-11-24 17:44:04] [Info] Connect alive.github.com:443
+[2020-11-24 17:44:04] [Info] Disconnect mtalk.google.com:443
+[2020-11-24 17:44:04] [Info] Disconnect i9.ytimg.com:443
+[2020-11-24 17:44:04] [Info] Disconnect r2---sn-5hnednlr.googlevideo.com:443
+[2020-11-24 17:44:04] [Info] Disconnect r2---sn-5hnednlr.googlevideo.com:443
+[2020-11-24 17:44:04] [Info] Connect mtalk.google.com:5228
+[2020-11-24 17:44:04] [Info] Connect r2---sn-5hne6n7e.googlevideo.com:443
+[2020-11-24 17:44:05] [Info] Connect www.youtube.com:443
+[2020-11-24 17:44:05] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-24 17:44:05] [Info] Connect www.youtube.com:443
+[2020-11-24 17:44:05] [Info] Connect www.youtube.com:443
+[2020-11-24 17:44:05] [Info] Connect www.youtube.com:443
+[2020-11-24 17:44:05] [Info] Connect www.youtube.com:443
+[2020-11-24 17:44:06] [Info] Disconnect www.youtube.com:443
+[2020-11-24 17:44:06] [Info] Disconnect www.youtube.com:443
+[2020-11-24 17:44:06] [Info] Disconnect www.youtube.com:443
+[2020-11-24 17:44:06] [Info] Disconnect www.youtube.com:443
+[2020-11-24 17:44:06] [Info] Disconnect r2---sn-5hne6n7e.googlevideo.com:443
+[2020-11-24 17:44:06] [Info] Connect i.ytimg.com:443
+[2020-11-24 17:44:06] [Info] Direct connect r2---sn-a5meknsd.googlevideo.com:443
+[2020-11-24 17:44:06] [Info] Direct connect r2---sn-a5meknsd.googlevideo.com:443
+[2020-11-24 17:44:07] [Info] Direct connect r2---sn-a5meknsd.googlevideo.com:443
+[2020-11-24 17:44:07] [Info] Direct connect r2---sn-a5meknsd.googlevideo.com:443
+[2020-11-24 17:44:10] [Info] Direct connect www.gstatic.com:443
+[2020-11-24 17:44:11] [Info] Connect r2---sn-q4flrn7d.googlevideo.com:443
+[2020-11-24 17:44:26] [Info] Connect r2---sn-q4flrn7d.googlevideo.com:443
+[2020-11-24 17:44:27] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 103.200.30.245:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-24 17:44:27] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 103.200.30.245:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-24 17:44:27] [Info] Connect r2---sn-q4flrn7d.googlevideo.com:443
+[2020-11-24 17:44:27] [Info] Direct connect r2---sn-a5meknsd.googlevideo.com:443
+[2020-11-24 17:44:28] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 103.200.30.245:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-24 17:44:28] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 103.200.30.245:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-26 15:12:22] ShadowsocksR started on port 1080
+[2020-11-26 15:12:23] [Info] Connect alive.github.com:443
+[2020-11-26 15:12:23] [Info] Connect alive.github.com:443
+[2020-11-26 15:12:23] [Info] Connect api.github.com:443
+[2020-11-26 15:12:24] [Info] Connect mail.google.com:443
+[2020-11-26 15:12:28] [Info] Connect www.google.com:443
+[2020-11-26 15:12:29] [Info] Connect www.google.com:443
+[2020-11-26 15:12:29] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-26 15:12:29] [Info] Direct connect fonts.gstatic.com:443
+[2020-11-26 15:12:29] [Info] Connect www.google.com:443
+[2020-11-26 15:12:29] [Info] Connect www.youtube.com:443
+[2020-11-26 15:12:29] [Info] Disconnect www.google.com:443
+[2020-11-26 15:12:30] [Info] Connect 0.client-channel.google.com:443
+[2020-11-26 15:12:31] [Info] Direct connect fonts.gstatic.com:443
+[2020-11-26 15:12:31] [Info] Direct connect ssl.gstatic.com:443
+[2020-11-26 15:12:32] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-11-26 15:12:32] [Info] Connect raw.githubusercontent.com:443
+[2020-11-26 15:12:33] [Info] Connect www.youtube.com:443
+[2020-11-26 15:12:34] [Error] connect to update server error
+[2020-11-26 15:12:35] [Info] Connect ogs.google.com:443
+[2020-11-26 15:12:36] [Info] Connect play.google.com:443
+[2020-11-26 15:12:37] [Info] Connect play.google.com:443
+[2020-11-26 15:12:38] [Info] Disconnect play.google.com:443
+[2020-11-26 15:12:38] [Info] Connect www.youtube.com:443
+[2020-11-26 15:12:38] [Info] Direct connect www.gstatic.com:443
+[2020-11-26 15:12:38] [Info] Connect apis.google.com:443
+[2020-11-26 15:12:39] [Info] Connect play.google.com:443
+[2020-11-26 15:12:39] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:12:41] [Info] Connect mtalk.google.com:443
+[2020-11-26 15:12:41] [Info] Disconnect 0.client-channel.google.com:443
+[2020-11-26 15:12:41] [Info] Connect 0.client-channel.google.com:443
+[2020-11-26 15:12:41] [Info] Connect ad.doubleclick.net:443
+[2020-11-26 15:12:43] [Info] Connect www.youtube.com:443
+[2020-11-26 15:12:44] [Info] Connect yt3.ggpht.com:443
+[2020-11-26 15:12:48] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:12:53] [Info] Disconnect play.google.com:443
+[2020-11-26 15:12:56] [Info] Disconnect alive.github.com:443
+[2020-11-26 15:13:09] [Info] Connect lh6.googleusercontent.com:443
+[2020-11-26 15:13:12] [Info] Connect yt3.ggpht.com:443
+[2020-11-26 15:13:12] [Info] Disconnect yt3.ggpht.com:443
+[2020-11-26 15:13:19] [Info] Connect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:13:19] [Info] Connect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:13:22] [Info] Connect r1---sn-a5msen7z.googlevideo.com:443
+[2020-11-26 15:13:23] [Info] Connect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:13:24] [Info] Direct connect www.mhradio.org:80
+[2020-11-26 15:13:29] [Info] Connect go.microsoft.com:443
+[2020-11-26 15:13:31] [Info] Connect stopservice.chshap.blob.core.windows.net:443
+[2020-11-26 15:13:32] [Info] Disconnect stopservice.chshap.blob.core.windows.net:443
+[2020-11-26 15:13:32] [Info] Direct connect stopservice.chshap.blob.core.windows.net:443
+[2020-11-26 15:13:32] [Info] Disconnect api.github.com:443
+[2020-11-26 15:13:33] [Info] Disconnect r1---sn-a5msen7z.googlevideo.com:443
+[2020-11-26 15:13:34] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-26 15:13:43] [Info] Connect clients1.google.com:443
+[2020-11-26 15:13:43] [Info] Disconnect apis.google.com:443
+[2020-11-26 15:13:45] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 118.184.78.78:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-26 15:13:45] [Info] Direct connect www.mhradio.org:80
+[2020-11-26 15:13:46] [Info] Connect www.youtube.com:443
+[2020-11-26 15:13:46] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:13:47] [Info] Connect www.youtube.com:443
+[2020-11-26 15:13:47] [Info] Connect www.youtube.com:443
+[2020-11-26 15:13:47] [Info] Connect www.youtube.com:443
+[2020-11-26 15:13:47] [Info] Connect www.youtube.com:443
+[2020-11-26 15:13:47] [Info] Connect www.youtube.com:443
+[2020-11-26 15:13:47] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:13:47] [Info] Disconnect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:13:47] [Info] Connect r1---sn-a5msen7z.googlevideo.com:443
+[2020-11-26 15:13:48] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:13:48] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:13:48] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:13:50] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:13:51] [Info] Disconnect mail.google.com:443
+[2020-11-26 15:13:51] [Info] Disconnect www.google.com:443
+[2020-11-26 15:13:51] [Info] Disconnect 0.client-channel.google.com:443
+[2020-11-26 15:13:51] [Info] Disconnect alive.github.com:443
+[2020-11-26 15:13:51] [Info] Disconnect lh6.googleusercontent.com:443
+[2020-11-26 15:13:51] [Info] Disconnect ogs.google.com:443
+[2020-11-26 15:13:51] [Info] Disconnect clients1.google.com:443
+[2020-11-26 15:13:51] [Info] Disconnect www.google.com:443
+[2020-11-26 15:13:51] [Info] Disconnect raw.githubusercontent.com:443
+[2020-11-26 15:13:51] [Info] Disconnect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:13:51] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:13:51] [Info] Disconnect play.google.com:443
+[2020-11-26 15:13:51] [Info] Disconnect i.ytimg.com:443
+[2020-11-26 15:13:51] [Info] Disconnect mtalk.google.com:443
+[2020-11-26 15:13:51] [Info] Disconnect yt3.ggpht.com:443
+[2020-11-26 15:13:51] [Info] Connect alive.github.com:443
+[2020-11-26 15:13:52] [Info] Disconnect ad.doubleclick.net:443
+[2020-11-26 15:13:52] [Info] Disconnect r1---sn-a5msen7z.googlevideo.com:443
+[2020-11-26 15:13:52] [Info] Connect 0.client-channel.google.com:443
+[2020-11-26 15:13:52] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:13:52] [Info] Disconnect go.microsoft.com:443
+[2020-11-26 15:13:52] [Info] Disconnect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:13:52] [Info] Connect www.youtube.com:443
+[2020-11-26 15:13:52] [Info] Connect mtalk.google.com:5228
+[2020-11-26 15:13:52] [Info] Connect r1---sn-a5msen7z.googlevideo.com:443
+[2020-11-26 15:13:52] [Info] Connect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:13:52] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:13:53] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:13:53] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:13:53] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:13:54] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:13:54] [Info] Disconnect i.ytimg.com:443
+[2020-11-26 15:13:54] [Info] Connect www.youtube.com:443
+[2020-11-26 15:13:54] [Info] Disconnect alive.github.com:443
+[2020-11-26 15:13:55] [Info] Connect www.youtube.com:443
+[2020-11-26 15:13:55] [Info] Disconnect 0.client-channel.google.com:443
+[2020-11-26 15:13:55] [Info] Connect www.youtube.com:443
+[2020-11-26 15:13:55] [Info] Connect www.youtube.com:443
+[2020-11-26 15:13:55] [Info] Direct connect fonts.gstatic.com:443
+[2020-11-26 15:13:55] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-26 15:13:55] [Info] Connect www.youtube.com:443
+[2020-11-26 15:13:55] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:13:55] [Info] Connect alive.github.com:443
+[2020-11-26 15:13:55] [Info] Disconnect r1---sn-a5msen7z.googlevideo.com:443
+[2020-11-26 15:13:55] [Info] Connect 0.client-channel.google.com:443
+[2020-11-26 15:13:56] [Info] Disconnect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:13:56] [Info] Connect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:13:56] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:13:56] [Info] Connect www.youtube.com:443
+[2020-11-26 15:13:56] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:13:56] [Info] Connect www.youtube.com:443
+[2020-11-26 15:13:56] [Info] Connect alive.github.com:443
+[2020-11-26 15:13:57] [Info] Disconnect i.ytimg.com:443
+[2020-11-26 15:13:57] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:13:57] [Info] Disconnect mtalk.google.com:5228
+[2020-11-26 15:13:57] [Info] Connect mtalk.google.com:5228
+[2020-11-26 15:13:57] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:13:58] [Info] Disconnect i.ytimg.com:443
+[2020-11-26 15:13:58] [Info] Connect www.youtube.com:443
+[2020-11-26 15:13:58] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:13:58] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:13:58] [Info] Disconnect i.ytimg.com:443
+[2020-11-26 15:13:58] [Info] Connect www.youtube.com:443
+[2020-11-26 15:13:58] [Info] Disconnect i.ytimg.com:443
+[2020-11-26 15:13:58] [Info] Disconnect mtalk.google.com:5228
+[2020-11-26 15:13:58] [Info] Disconnect 0.client-channel.google.com:443
+[2020-11-26 15:13:58] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:13:59] [Info] Disconnect i.ytimg.com:443
+[2020-11-26 15:13:59] [Info] Disconnect i.ytimg.com:443
+[2020-11-26 15:13:59] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:13:59] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:14:00] [Info] Connect www.youtube.com:443
+[2020-11-26 15:14:00] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:14:00] [Info] Connect www.youtube.com:443
+[2020-11-26 15:14:00] [Info] Connect www.youtube.com:443
+[2020-11-26 15:14:00] [Info] Connect www.youtube.com:443
+[2020-11-26 15:14:00] [Info] Disconnect alive.github.com:443
+[2020-11-26 15:14:01] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:14:01] [Info] Connect alive.github.com:443
+[2020-11-26 15:14:01] [Info] Disconnect i.ytimg.com:443
+[2020-11-26 15:14:01] [Info] Connect alive.github.com:443
+[2020-11-26 15:14:01] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:14:02] [Info] Connect www.youtube.com:443
+[2020-11-26 15:14:02] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:14:02] [Info] Connect www.youtube.com:443
+[2020-11-26 15:14:02] [Info] Disconnect i.ytimg.com:443
+[2020-11-26 15:14:03] [Info] Connect alive.github.com:443
+[2020-11-26 15:14:03] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:14:03] [Info] Connect www.youtube.com:443
+[2020-11-26 15:14:04] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:14:04] [Info] Connect www.youtube.com:443
+[2020-11-26 15:14:04] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:14:04] [Info] Connect www.youtube.com:443
+[2020-11-26 15:14:04] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:14:04] [Info] Disconnect alive.github.com:443
+[2020-11-26 15:14:05] [Info] Disconnect alive.github.com:443
+[2020-11-26 15:14:05] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:14:05] [Info] Connect www.youtube.com:443
+[2020-11-26 15:14:05] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:14:05] [Info] Connect www.youtube.com:443
+[2020-11-26 15:14:05] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:14:05] [Info] Connect www.youtube.com:443
+[2020-11-26 15:14:06] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:14:06] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 118.184.78.78:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-26 15:14:06] [Info] Connect 0.client-channel.google.com:443
+[2020-11-26 15:14:07] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:14:07] [Info] Direct connect www.mhradio.org:80
+[2020-11-26 15:14:07] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:14:07] [Info] Disconnect 0.client-channel.google.com:443
+[2020-11-26 15:14:07] [Info] Connect 0.client-channel.google.com:443
+[2020-11-26 15:14:08] [Info] Disconnect alive.github.com:443
+[2020-11-26 15:14:08] [Info] Connect alive.github.com:443
+[2020-11-26 15:14:08] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:14:08] [Info] Disconnect 0.client-channel.google.com:443
+[2020-11-26 15:14:09] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:14:09] [Info] Connect www.youtube.com:443
+[2020-11-26 15:14:09] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:14:10] [Info] Disconnect i.ytimg.com:443
+[2020-11-26 15:14:10] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:14:10] [Info] Disconnect i.ytimg.com:443
+[2020-11-26 15:14:11] [Info] Connect alive.github.com:443
+[2020-11-26 15:14:12] [Info] Disconnect alive.github.com:443
+[2020-11-26 15:14:12] [Info] Disconnect i.ytimg.com:443
+[2020-11-26 15:14:12] [Info] Disconnect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:14:12] [Info] Disconnect alive.github.com:443
+[2020-11-26 15:14:12] [Info] Connect www.youtube.com:443
+[2020-11-26 15:14:12] [Info] Connect alive.github.com:443
+[2020-11-26 15:14:13] [Info] Connect www.youtube.com:443
+[2020-11-26 15:14:13] [Info] Connect www.youtube.com:443
+[2020-11-26 15:14:15] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:14:15] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:14:16] [Info] Direct connect fonts.gstatic.com:443
+[2020-11-26 15:14:16] [Info] Connect r1---sn-5hnednlr.googlevideo.com:443
+[2020-11-26 15:14:16] [Info] Connect r1---sn-5hnednlr.googlevideo.com:443
+[2020-11-26 15:14:17] [Info] Connect r1---sn-5hnednlr.googlevideo.com:443
+[2020-11-26 15:14:17] [Info] Connect r1---sn-5hnednlr.googlevideo.com:443
+[2020-11-26 15:14:17] [Info] Disconnect alive.github.com:443
+[2020-11-26 15:14:18] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:14:19] [Info] Disconnect i.ytimg.com:443
+[2020-11-26 15:14:21] [Info] Connect r1---sn-4g5e6nlk.googlevideo.com:443
+[2020-11-26 15:14:23] [Info] Connect mtalk.google.com:443
+[2020-11-26 15:14:23] [Info] Connect alive.github.com:443
+[2020-11-26 15:14:24] [Info] Disconnect mtalk.google.com:443
+[2020-11-26 15:14:24] [Info] Connect mtalk.google.com:443
+[2020-11-26 15:14:28] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 118.184.78.78:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-26 15:14:29] [Info] Direct connect www.mhradio.org:80
+[2020-11-26 15:14:29] [Info] Connect go.microsoft.com:443
+[2020-11-26 15:14:30] [Info] Connect play.google.com:443
+[2020-11-26 15:14:32] [Info] Connect 0.client-channel.google.com:443
+[2020-11-26 15:14:33] [Info] Connect chshap.blob.core.windows.net:443
+[2020-11-26 15:14:34] [Info] Connect play.google.com:443
+[2020-11-26 15:14:38] [Info] Connect chshap.blob.core.windows.net:443
+[2020-11-26 15:14:39] [Info] Connect play.google.com:443
+[2020-11-26 15:14:50] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 118.184.78.78:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-26 15:14:50] [Info] Direct connect www.mhradio.org:80
+[2020-11-26 15:14:51] [Info] Disconnect r1---sn-4g5e6nlk.googlevideo.com:443
+[2020-11-26 15:15:06] [Info] Connect mail.google.com:443
+[2020-11-26 15:15:09] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:15:09] [Info] Disconnect i.ytimg.com:443
+[2020-11-26 15:15:09] [Info] Disconnect mail.google.com:443
+[2020-11-26 15:15:09] [Info] Disconnect r1---sn-5hnednlr.googlevideo.com:443
+[2020-11-26 15:15:09] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:15:09] [Info] Disconnect mtalk.google.com:443
+[2020-11-26 15:15:09] [Info] Disconnect r1---sn-5hnednlr.googlevideo.com:443
+[2020-11-26 15:15:09] [Info] Disconnect r1---sn-5hnednlr.googlevideo.com:443
+[2020-11-26 15:15:09] [Info] Disconnect r1---sn-5hnednlr.googlevideo.com:443
+[2020-11-26 15:15:09] [Info] Disconnect alive.github.com:443
+[2020-11-26 15:15:09] [Info] Disconnect play.google.com:443
+[2020-11-26 15:15:09] [Info] Connect mail.google.com:443
+[2020-11-26 15:15:09] [Info] Disconnect 0.client-channel.google.com:443
+[2020-11-26 15:15:09] [Info] Disconnect go.microsoft.com:443
+[2020-11-26 15:15:09] [Info] Disconnect chshap.blob.core.windows.net:443
+[2020-11-26 15:15:09] [Info] Disconnect play.google.com:443
+[2020-11-26 15:15:09] [Info] Connect r1---sn-5hnednlr.googlevideo.com:443
+[2020-11-26 15:15:09] [Info] Connect mtalk.google.com:5228
+[2020-11-26 15:15:09] [Info] Connect alive.github.com:443
+[2020-11-26 15:15:09] [Info] Connect play.google.com:443
+[2020-11-26 15:15:09] [Info] Direct connect chshap.blob.core.windows.net:443
+[2020-11-26 15:15:10] [Info] Connect 0.client-channel.google.com:443
+[2020-11-26 15:15:10] [Info] Connect www.youtube.com:443
+[2020-11-26 15:15:10] [Info] Direct connect fonts.gstatic.com:443
+[2020-11-26 15:15:10] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-26 15:15:10] [Info] Connect www.youtube.com:443
+[2020-11-26 15:15:10] [Info] Connect www.youtube.com:443
+[2020-11-26 15:15:10] [Info] Connect www.youtube.com:443
+[2020-11-26 15:15:10] [Info] Connect www.youtube.com:443
+[2020-11-26 15:15:11] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:15:11] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 118.184.78.78:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-26 15:15:11] [Error] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。 127.0.0.1:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-26 15:15:12] [Info] Direct connect www.mhradio.org:80
+[2020-11-26 15:15:13] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:15:13] [Info] Connect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:15:13] [Info] Connect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:15:13] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:15:14] [Info] Connect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:15:14] [Info] Connect mtalk.google.com:5228
+[2020-11-26 15:15:14] [Info] Connect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:15:14] [Info] Connect alive.github.com:443
+[2020-11-26 15:15:15] [Info] Connect www.youtube.com:443
+[2020-11-26 15:15:15] [Info] Connect www.youtube.com:443
+[2020-11-26 15:15:16] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:15:16] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:15:17] [Info] Connect r1---sn-a5msen7z.googlevideo.com:443
+[2020-11-26 15:15:20] [Info] Disconnect alive.github.com:443
+[2020-11-26 15:15:24] [Info] Connect r1---sn-a5msen7z.googlevideo.com:443
+[2020-11-26 15:15:24] [Info] Disconnect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:15:30] [Info] Connect r1---sn-a5msen7z.googlevideo.com:443
+[2020-11-26 15:15:33] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 118.184.78.78:80
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-26 15:15:34] [Info] Direct connect www.mhradio.org:80
+[2020-11-26 15:35:39] ShadowsocksR started on port 1080
+[2020-11-26 15:35:39] [Info] Connect alive.github.com:443
+[2020-11-26 15:35:39] [Info] Connect 0.client-channel.google.com:443
+[2020-11-26 15:35:39] [Info] Connect alive.github.com:443
+[2020-11-26 15:35:39] [Info] Connect mail.google.com:443
+[2020-11-26 15:35:39] [Info] Connect 0.client-channel.google.com:443
+[2020-11-26 15:35:39] [Info] Connect mtalk.google.com:5228
+[2020-11-26 15:35:40] [Info] Connect www.google.com:443
+[2020-11-26 15:35:40] [Info] Connect www.google.com:443
+[2020-11-26 15:35:41] [Info] Connect www.google.com:443
+[2020-11-26 15:35:41] [Info] Connect www.youtube.com:443
+[2020-11-26 15:35:41] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-26 15:35:41] [Info] Direct connect fonts.gstatic.com:443
+[2020-11-26 15:35:41] [Info] Disconnect www.google.com:443
+[2020-11-26 15:35:41] [Info] Direct connect fonts.gstatic.com:443
+[2020-11-26 15:35:42] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:35:43] [Info] Connect ad.doubleclick.net:443
+[2020-11-26 15:35:44] [Info] Connect yt3.ggpht.com:443
+[2020-11-26 15:35:44] [Info] Connect yt3.ggpht.com:443
+[2020-11-26 15:35:44] [Info] Disconnect yt3.ggpht.com:443
+[2020-11-26 15:35:45] [Info] Connect clients1.google.com:443
+[2020-11-26 15:35:48] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-11-26 15:35:48] [Info] Connect raw.githubusercontent.com:443
+[2020-11-26 15:35:49] [Error] connect to update server error
+[2020-11-26 15:35:50] [Info] Connect play.google.com:443
+[2020-11-26 15:35:51] [Info] Connect r4---sn-a5mekne7.googlevideo.com:443
+[2020-11-26 15:35:51] [Info] Connect r4---sn-a5mekne7.googlevideo.com:443
+[2020-11-26 15:35:51] [Info] Connect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:35:51] [Info] Connect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:35:51] [Info] Connect r1---sn-nv47lns7.googlevideo.com:443
+[2020-11-26 15:35:53] [Info] Connect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:35:53] [Info] Disconnect r1---sn-nv47lns7.googlevideo.com:443
+[2020-11-26 15:35:55] [Info] Disconnect alive.github.com:443
+[2020-11-26 15:36:06] [Info] Disconnect r4---sn-a5mekne7.googlevideo.com:443
+[2020-11-26 15:36:06] [Info] Disconnect mtalk.google.com:5228
+[2020-11-26 15:36:06] [Info] Disconnect 0.client-channel.google.com:443
+[2020-11-26 15:36:06] [Info] Disconnect r4---sn-a5mekne7.googlevideo.com:443
+[2020-11-26 15:36:06] [Info] Disconnect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:36:06] [Info] Disconnect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:36:06] [Info] Disconnect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:36:06] [Info] Disconnect mail.google.com:443
+[2020-11-26 15:36:06] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:36:06] [Info] Disconnect ad.doubleclick.net:443
+[2020-11-26 15:36:06] [Info] Disconnect alive.github.com:443
+[2020-11-26 15:36:06] [Info] Disconnect raw.githubusercontent.com:443
+[2020-11-26 15:36:06] [Info] Connect mtalk.google.com:5228
+[2020-11-26 15:36:06] [Info] Disconnect i.ytimg.com:443
+[2020-11-26 15:36:06] [Info] Disconnect www.google.com:443
+[2020-11-26 15:36:06] [Info] Connect alive.github.com:443
+[2020-11-26 15:36:06] [Info] Disconnect yt3.ggpht.com:443
+[2020-11-26 15:36:06] [Info] Disconnect www.google.com:443
+[2020-11-26 15:36:06] [Info] Disconnect clients1.google.com:443
+[2020-11-26 15:36:07] [Info] Disconnect 0.client-channel.google.com:443
+[2020-11-26 15:36:07] [Info] Disconnect play.google.com:443
+[2020-11-26 15:36:07] [Info] Connect 0.client-channel.google.com:443
+[2020-11-26 15:36:10] [Info] Connect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:36:11] [Info] Connect www.youtube.com:443
+[2020-11-26 15:36:11] [Info] Connect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:36:11] [Info] Disconnect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:36:12] [Info] Connect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:36:25] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:36:25] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:36:36] ShadowsocksR started on port 1080
+[2020-11-26 15:36:38] [Info] Direct connect fonts.gstatic.com:443
+[2020-11-26 15:36:38] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-26 15:36:38] [Info] Connect alive.github.com:443
+[2020-11-26 15:36:38] [Info] Connect www.youtube.com:443
+[2020-11-26 15:36:38] [Info] Connect www.youtube.com:443
+[2020-11-26 15:36:39] [Info] Connect www.youtube.com:443
+[2020-11-26 15:36:39] [Info] Connect alive.github.com:443
+[2020-11-26 15:36:39] [Info] Connect www.youtube.com:443
+[2020-11-26 15:36:39] [Info] Connect r1---sn-n4v7sn7s.googlevideo.com:443
+[2020-11-26 15:36:39] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:36:39] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:36:39] [Info] Disconnect www.youtube.com:443
+[2020-11-26 15:36:40] [Info] Connect i.ytimg.com:443
+[2020-11-26 15:36:40] [Info] Connect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:36:40] [Info] Connect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:36:40] [Info] Direct connect fonts.gstatic.com:443
+[2020-11-26 15:36:40] [Info] Disconnect alive.github.com:443
+[2020-11-26 15:36:40] [Info] Direct connect r1---sn-a5msen7z.googlevideo.com:443
+[2020-11-26 15:36:40] [Info] Direct connect r1---sn-a5msen7z.googlevideo.com:443
+[2020-11-26 15:36:41] [Info] Direct connect ssl.gstatic.com:443
+[2020-11-26 15:36:44] [Info] Connect 0.client-channel.google.com:443
+[2020-11-26 15:36:45] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-11-26 15:36:45] [Info] Connect raw.githubusercontent.com:443
+[2020-11-26 15:36:45] [Error] connect to update server error
+[2020-11-26 15:36:54] [Info] Connect mtalk.google.com:443
+[2020-11-26 15:37:00] [Info] Connect mail.google.com:443
+[2020-11-26 15:37:01] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 103.228.130.61:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-26 15:37:01] [Error] System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 103.228.130.61:443
+   在 System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   在 System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.Socks5Forwarder.Handler.ConnectCallback(IAsyncResult ar)
+[2020-11-26 15:37:02] [Info] Connect r1---sn-a5mekn7y.googlevideo.com:443
+[2020-11-26 15:37:03] [Info] Direct connect r1---sn-a5msen7z.googlevideo.com:443
+[2020-11-26 15:37:12] [Info] Connect play.google.com:443
+[2020-11-27 22:47:42] ShadowsocksR started on port 1080
+[2020-11-27 22:47:42] [Info] Connect www.google.com:443
+[2020-11-27 22:47:42] [Info] Connect www.google.com:443
+[2020-11-27 22:47:43] [Info] Connect alive.github.com:443
+[2020-11-27 22:47:48] [Info] Connect www.google.com:443
+[2020-11-27 22:47:48] [Info] Connect www.google.com:443
+[2020-11-27 22:47:48] [Info] Connect alive.github.com:443
+[2020-11-27 22:47:51] [Info] Connect alive.github.com:443
+[2020-11-27 22:47:53] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-11-27 22:47:53] [Info] Connect raw.githubusercontent.com:443
+[2020-11-27 22:47:53] [Info] Connect www.google.com:443
+[2020-11-27 22:47:53] [Info] Connect www.google.com:443
+[2020-11-27 22:47:53] [Info] Connect alive.github.com:443
+[2020-11-27 22:47:56] [Info] Connect alive.github.com:443
+[2020-11-27 22:47:58] [Info] Connect raw.githubusercontent.com:443
+[2020-11-27 22:47:58] [Info] Disconnect www.google.com:443
+[2020-11-27 22:47:58] [Info] Disconnect www.google.com:443
+[2020-11-27 22:47:58] [Info] Connect mtalk.google.com:443
+[2020-11-27 22:47:58] [Info] Disconnect alive.github.com:443
+[2020-11-27 22:48:01] [Info] Connect alive.github.com:443
+[2020-11-27 22:48:03] [Info] Connect alive.github.com:443
+[2020-11-27 22:48:03] [Info] Connect raw.githubusercontent.com:443
+[2020-11-27 22:48:03] [Info] Connect mtalk.google.com:443
+[2020-11-27 22:48:06] [Info] Disconnect alive.github.com:443
+[2020-11-27 22:48:09] [Info] Connect alive.github.com:443
+[2020-11-27 22:48:09] [Info] Disconnect raw.githubusercontent.com:443
+[2020-11-27 22:48:09] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-11-27 22:48:09] [Info] Connect raw.githubusercontent.com:443
+[2020-11-27 22:48:09] [Info] Connect mtalk.google.com:443
+[2020-11-27 22:48:14] [Info] Connect alive.github.com:443
+[2020-11-27 22:48:14] [Info] Connect raw.githubusercontent.com:443
+[2020-11-27 22:48:14] [Info] Disconnect mtalk.google.com:443
+[2020-11-27 22:48:19] [Info] Disconnect alive.github.com:443
+[2020-11-27 22:48:19] [Info] Connect raw.githubusercontent.com:443
+[2020-11-27 22:48:23] [Info] Connect www.google.com:443
+[2020-11-27 22:48:23] [Info] Connect www.google.com:443
+[2020-11-27 22:48:23] [Info] Connect www.google.com:443
+[2020-11-27 22:48:23] [Info] Connect www.google.com:443
+[2020-11-27 22:48:23] [Info] Disconnect www.google.com:443
+[2020-11-27 22:48:23] [Info] Connect www.google.com:443
+[2020-11-27 22:48:23] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:23] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-27 22:48:23] [Info] Disconnect www.google.com:443
+[2020-11-27 22:48:23] [Info] Connect www.google.com:443
+[2020-11-27 22:48:23] [Info] Disconnect www.google.com:443
+[2020-11-27 22:48:23] [Info] Connect www.google.com:443
+[2020-11-27 22:48:24] [Info] Disconnect www.google.com:443
+[2020-11-27 22:48:24] [Info] Connect www.google.com:443
+[2020-11-27 22:48:24] [Info] Connect alive.github.com:443
+[2020-11-27 22:48:24] [Info] Disconnect www.google.com:443
+[2020-11-27 22:48:24] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:24] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:24] [Info] Disconnect www.google.com:443
+[2020-11-27 22:48:24] [Info] Direct connect fonts.gstatic.com:443
+[2020-11-27 22:48:24] [Info] Disconnect www.google.com:443
+[2020-11-27 22:48:24] [Info] Disconnect raw.githubusercontent.com:443
+[2020-11-27 22:48:24] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-11-27 22:48:24] [Info] Connect raw.githubusercontent.com:443
+[2020-11-27 22:48:25] [Info] Disconnect raw.githubusercontent.com:443
+[2020-11-27 22:48:25] [Error] connect to update server error
+[2020-11-27 22:48:27] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:28] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:28] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:29] [Info] Connect www.google.com:443
+[2020-11-27 22:48:29] [Info] Connect alive.github.com:443
+[2020-11-27 22:48:29] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:29] [Info] Disconnect www.google.com:443
+[2020-11-27 22:48:30] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:30] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-27 22:48:30] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:31] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:33] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:33] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:34] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:34] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:34] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:34] [Info] Connect alive.github.com:443
+[2020-11-27 22:48:35] [Info] Disconnect alive.github.com:443
+[2020-11-27 22:48:35] [Info] Connect alive.github.com:443
+[2020-11-27 22:48:35] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:36] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:36] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:36] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:36] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:39] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:40] [Info] Connect alive.github.com:443
+[2020-11-27 22:48:40] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:41] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-27 22:48:41] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:41] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:42] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:42] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:42] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:43] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:44] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:44] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:45] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:45] [Info] Connect alive.github.com:443
+[2020-11-27 22:48:46] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:47] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:47] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:49] [Info] Disconnect alive.github.com:443
+[2020-11-27 22:48:49] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:49] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:49] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:49] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-27 22:48:50] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:50] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:51] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:51] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:52] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:52] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:52] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:52] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:52] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:52] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:53] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:53] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:54] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:48:54] [Info] Connect www.youtube.com:443
+[2020-11-27 22:48:54] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:49:00] [Info] Connect alive.github.com:443
+[2020-11-27 22:49:01] [Info] Disconnect alive.github.com:443
+[2020-11-27 22:49:01] [Info] Connect alive.github.com:443
+[2020-11-27 22:49:01] [Info] Disconnect alive.github.com:443
+[2020-11-27 22:49:01] [Info] Connect github.com:443
+[2020-11-27 22:49:02] [Info] Disconnect github.com:443
+[2020-11-27 22:49:02] [Info] Connect github.com:443
+[2020-11-27 22:49:02] [Info] Disconnect github.com:443
+[2020-11-27 22:49:03] [Info] Connect github.com:443
+[2020-11-27 22:49:04] [Info] Disconnect github.com:443
+[2020-11-27 22:49:04] [Info] Connect github.com:443
+[2020-11-27 22:49:04] [Info] Disconnect github.com:443
+[2020-11-27 22:49:06] [Info] Connect github.com:443
+[2020-11-27 22:49:07] [Info] Disconnect github.com:443
+[2020-11-27 22:49:07] [Info] Connect github.com:443
+[2020-11-27 22:49:07] [Info] Disconnect github.com:443
+[2020-11-27 22:49:08] [Info] Connect mtalk.google.com:5228
+[2020-11-27 22:49:08] [Info] Disconnect mtalk.google.com:5228
+[2020-11-27 22:49:08] [Info] Connect mtalk.google.com:5228
+[2020-11-27 22:49:09] [Info] Disconnect mtalk.google.com:5228
+[2020-11-27 22:49:12] [Info] Connect github.com:443
+[2020-11-27 22:49:12] [Info] Disconnect github.com:443
+[2020-11-27 22:49:12] [Info] Connect github.com:443
+[2020-11-27 22:49:13] [Info] Disconnect github.com:443
+[2020-11-27 22:49:21] [Info] Connect github.com:443
+[2020-11-27 22:49:21] [Info] Disconnect github.com:443
+[2020-11-27 22:49:21] [Info] Connect github.com:443
+[2020-11-27 22:49:22] [Info] Disconnect github.com:443
+[2020-11-27 22:49:22] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-27 22:49:22] [Info] Connect www.youtube.com:443
+[2020-11-27 22:49:23] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:49:23] [Info] Connect www.youtube.com:443
+[2020-11-27 22:49:23] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:49:24] [Info] Connect www.youtube.com:443
+[2020-11-27 22:49:25] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:49:25] [Info] Connect www.youtube.com:443
+[2020-11-27 22:49:26] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:49:31] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-27 22:49:31] [Info] Connect www.youtube.com:443
+[2020-11-27 22:49:32] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:49:32] [Info] Connect www.youtube.com:443
+[2020-11-27 22:49:32] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:49:33] [Info] Connect www.youtube.com:443
+[2020-11-27 22:49:34] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:49:34] [Info] Connect www.youtube.com:443
+[2020-11-27 22:49:34] [Info] Connect www.youtube.com:443
+[2020-11-27 22:49:34] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:49:34] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:49:34] [Info] Connect www.youtube.com:443
+[2020-11-27 22:49:35] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:49:35] [Info] Connect www.youtube.com:443
+[2020-11-27 22:49:36] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:49:36] [Info] Connect www.youtube.com:443
+[2020-11-27 22:49:36] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:49:40] [Info] Connect github.com:443
+[2020-11-27 22:49:40] [Info] Disconnect github.com:443
+[2020-11-27 22:49:40] [Info] Connect github.com:443
+[2020-11-27 22:49:41] [Info] Disconnect github.com:443
+[2020-11-27 22:50:11] [Info] Connect www.youtube.com:443
+[2020-11-27 22:50:11] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-27 22:50:11] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:50:11] [Info] Connect www.youtube.com:443
+[2020-11-27 22:50:12] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:50:13] [Info] Connect www.youtube.com:443
+[2020-11-27 22:50:13] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:50:13] [Info] Connect www.youtube.com:443
+[2020-11-27 22:50:13] [Info] Connect github.com:443
+[2020-11-27 22:50:14] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:50:14] [Info] Disconnect github.com:443
+[2020-11-27 22:50:14] [Info] Connect github.com:443
+[2020-11-27 22:50:14] [Info] Disconnect github.com:443
+[2020-11-27 22:50:46] [Info] Connect mtalk.google.com:443
+[2020-11-27 22:50:47] [Info] Disconnect mtalk.google.com:443
+[2020-11-27 22:50:47] [Info] Connect mtalk.google.com:443
+[2020-11-27 22:50:47] [Info] Disconnect mtalk.google.com:443
+[2020-11-27 22:51:12] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-27 22:51:12] [Info] Connect www.youtube.com:443
+[2020-11-27 22:51:12] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:51:12] [Info] Connect www.youtube.com:443
+[2020-11-27 22:51:13] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:51:14] [Info] Connect www.youtube.com:443
+[2020-11-27 22:51:14] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:51:14] [Info] Connect www.youtube.com:443
+[2020-11-27 22:51:14] [Info] Connect github.com:443
+[2020-11-27 22:51:15] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:51:15] [Info] Disconnect github.com:443
+[2020-11-27 22:51:15] [Info] Connect github.com:443
+[2020-11-27 22:51:16] [Info] Disconnect github.com:443
+[2020-11-27 22:51:32] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-27 22:51:32] [Info] Connect www.youtube.com:443
+[2020-11-27 22:51:32] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:51:32] [Info] Connect www.youtube.com:443
+[2020-11-27 22:51:34] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:51:35] [Info] Connect www.youtube.com:443
+[2020-11-27 22:51:35] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:51:35] [Info] Connect www.youtube.com:443
+[2020-11-27 22:51:36] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:52:02] [Info] Connect v10.events.data.microsoft.com:443
+[2020-11-27 22:52:02] [Info] Disconnect v10.events.data.microsoft.com:443
+[2020-11-27 22:52:05] [Info] Connect v10.events.data.microsoft.com:443
+[2020-11-27 22:52:06] [Info] Disconnect v10.events.data.microsoft.com:443
+[2020-11-27 22:52:14] [Info] Connect v10.events.data.microsoft.com:443
+[2020-11-27 22:52:14] [Info] Disconnect v10.events.data.microsoft.com:443
+[2020-11-27 22:52:16] [Info] Connect github.com:443
+[2020-11-27 22:52:16] [Info] Disconnect github.com:443
+[2020-11-27 22:52:16] [Info] Connect github.com:443
+[2020-11-27 22:52:17] [Info] Disconnect github.com:443
+[2020-11-27 22:52:28] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-27 22:52:28] [Info] Connect www.youtube.com:443
+[2020-11-27 22:52:29] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:52:29] [Info] Connect www.youtube.com:443
+[2020-11-27 22:52:30] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:52:31] [Info] Connect www.youtube.com:443
+[2020-11-27 22:52:31] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:52:31] [Info] Connect www.youtube.com:443
+[2020-11-27 22:52:32] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:52:40] [Info] Connect v10.events.data.microsoft.com:443
+[2020-11-27 22:52:41] [Info] Disconnect v10.events.data.microsoft.com:443
+[2020-11-27 22:52:52] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-11-27 22:52:52] [Info] Connect raw.githubusercontent.com:443
+[2020-11-27 22:52:53] [Info] Disconnect raw.githubusercontent.com:443
+[2020-11-27 22:52:53] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-11-27 22:52:53] [Info] Connect raw.githubusercontent.com:443
+[2020-11-27 22:52:54] [Info] Disconnect raw.githubusercontent.com:443
+[2020-11-27 22:52:54] [Error] connect to update server error
+[2020-11-27 22:52:59] [Info] Connect www.youtube.com:443
+[2020-11-27 22:52:59] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-27 22:52:59] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:52:59] [Info] Connect www.youtube.com:443
+[2020-11-27 22:53:00] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:53:01] [Info] Connect www.youtube.com:443
+[2020-11-27 22:53:02] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:53:02] [Info] Connect www.youtube.com:443
+[2020-11-27 22:53:02] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:53:17] [Info] Connect github.com:443
+[2020-11-27 22:53:17] [Info] Disconnect github.com:443
+[2020-11-27 22:53:17] [Info] Connect github.com:443
+[2020-11-27 22:53:18] [Info] Disconnect github.com:443
+[2020-11-27 22:53:55] [Info] Connect www.youtube.com:443
+[2020-11-27 22:53:55] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-27 22:53:56] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:53:56] [Info] Connect www.youtube.com:443
+[2020-11-27 22:53:56] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:53:57] [Info] Connect www.youtube.com:443
+[2020-11-27 22:53:58] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:53:58] [Info] Connect www.youtube.com:443
+[2020-11-27 22:53:58] [Info] Disconnect www.youtube.com:443
+[2020-11-27 22:54:09] ShadowsocksR started on port 1080
+[2020-11-27 22:54:11] [Info] Direct connect fonts.googleapis.com:443
+[2020-11-27 22:54:11] [Info] Connect www.youtube.com:443
+[2020-11-27 22:54:12] [Info] Connect i.ytimg.com:443
+[2020-11-27 22:54:12] [Info] Connect v10.events.data.microsoft.com:443
+[2020-11-27 22:54:12] [Info] Direct connect fonts.gstatic.com:443
+[2020-11-27 22:54:14] [Info] Connect yt3.ggpht.com:443
+[2020-11-27 22:54:14] [Info] Connect yt3.ggpht.com:443
+[2020-11-27 22:54:14] [Info] Connect yt3.ggpht.com:443
+[2020-11-27 22:54:16] [Info] Disconnect yt3.ggpht.com:443
+[2020-11-27 22:54:16] [Info] Disconnect yt3.ggpht.com:443
+[2020-11-27 22:54:16] [Info] Disconnect v10.events.data.microsoft.com:443
+[2020-11-27 22:54:18] [Info] Connect github.com:443
+[2020-11-27 22:54:18] [Debug] DNS query fail: raw.githubusercontent.com
+[2020-11-27 22:54:18] [Info] Connect raw.githubusercontent.com:443
+[2020-11-27 22:54:20] [Info] Connect alive.github.com:443
+[2020-11-27 22:54:20] [Info] Connect r1---sn-a5m7lnlz.googlevideo.com:443
+[2020-11-27 22:54:20] [Info] Connect r1---sn-a5m7lnlz.googlevideo.com:443
+[2020-11-27 22:54:21] [Info] Connect r2---sn-a5mlrnes.googlevideo.com:443
+[2020-11-27 22:54:21] [Info] Connect r2---sn-a5mlrnes.googlevideo.com:443
+[2020-11-27 22:54:21] [Info] Connect i9.ytimg.com:443
+[2020-11-27 22:54:21] [Error] connect to update server error
+[2020-11-27 22:54:24] [Info] Connect r2---sn-n4v7knlk.googlevideo.com:443
+[2020-11-27 22:54:26] [Info] Connect r2---sn-n4v7knlk.googlevideo.com:443
+[2020-11-27 22:54:26] [Info] Disconnect r2---sn-a5mlrnes.googlevideo.com:443
+[2020-11-27 22:54:30] [Info] Connect r2---sn-n4v7knlk.googlevideo.com:443

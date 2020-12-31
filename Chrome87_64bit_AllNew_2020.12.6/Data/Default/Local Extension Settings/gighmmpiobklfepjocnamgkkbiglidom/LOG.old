@@ -1,0 +1,34 @@
+2020/12/06-21:43:25.528 2d1c Reusing MANIFEST F:\BAIDUN~1\翻墙软件\高内核\64位\87\CHROME~1.6\Data\Default\Local Extension Settings\gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/12/06-21:43:25.530 2d1c Recovering log #4040
+2020/12/06-21:43:25.550 2d1c Reusing old log F:\BAIDUN~1\翻墙软件\高内核\64位\87\CHROME~1.6\Data\Default\Local Extension Settings\gighmmpiobklfepjocnamgkkbiglidom/004040.log 
+2020/12/06-21:44:31.276 3a80 Level-0 table #4046: started
+2020/12/06-21:44:31.722 bfc Current memtable full; waiting...
+2020/12/06-21:44:32.441 3a80 Level-0 table #4046: 6286166 bytes OK
+2020/12/06-21:44:32.744 3a80 Delete type=0 #4040
+2020/12/06-21:44:34.050 3a80 Level-0 table #4048: started
+2020/12/06-21:44:35.036 bfc Current memtable full; waiting...
+2020/12/06-21:44:35.592 3a80 Level-0 table #4048: 6285563 bytes OK
+2020/12/06-21:44:35.666 3a80 Delete type=0 #4045
+2020/12/06-21:44:35.684 3a80 Level-0 table #4050: started
+2020/12/06-21:44:35.955 3a80 Level-0 table #4050: 6285745 bytes OK
+2020/12/06-21:44:36.044 3a80 Delete type=0 #4047
+2020/12/06-21:44:47.175 3a80 Level-0 table #4052: started
+2020/12/06-21:44:47.444 3a80 Level-0 table #4052: 6285542 bytes OK
+2020/12/06-21:44:47.490 3a80 Delete type=0 #4049
+2020/12/06-21:44:47.492 bfc Compacting 4@0 + 2@1 files
+2020/12/06-21:44:47.878 bfc Generated table #4053@0: 1 keys, 6285542 bytes
+2020/12/06-21:44:48.006 bfc Generated table #4054@0: 8 keys, 618 bytes
+2020/12/06-21:44:48.006 bfc Compacted 4@0 + 2@1 files => 6286160 bytes
+2020/12/06-21:44:48.076 bfc compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/12/06-21:44:48.076 bfc Delete type=2 #4042
+2020/12/06-21:44:48.077 bfc Delete type=2 #4043
+2020/12/06-21:44:48.077 bfc Delete type=2 #4046
+2020/12/06-21:44:48.077 bfc Delete type=2 #4048
+2020/12/06-21:44:48.077 bfc Delete type=2 #4050
+2020/12/06-21:44:48.077 bfc Delete type=2 #4052
+2020/12/06-21:44:49.965 bfc Level-0 table #4056: started
+2020/12/06-21:44:50.255 bfc Level-0 table #4056: 6282949 bytes OK
+2020/12/06-21:44:50.291 bfc Delete type=0 #4051
+2020/12/06-21:45:29.624 118 Level-0 table #4058: started
+2020/12/06-21:45:30.125 118 Level-0 table #4058: 6282750 bytes OK
+2020/12/06-21:45:30.383 118 Delete type=0 #4055
